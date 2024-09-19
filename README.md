@@ -5,7 +5,7 @@
 Imagine que você é um super fã da música clássica e quer saber tudo sobre seu músico favorito ou sobre uma música clássica específica. Essa aplicação é a sua nova melhor amiga! Ela te ajuda a encontrar todas as informações que você precisa de forma rápida e fácil. 
 
 Link do projeto:
-https://adelinott.github.io/ImersaoDev24/
+https://adelinott.github.io/ImersaoDev2024/
 
 **Como ela funciona?**
 
